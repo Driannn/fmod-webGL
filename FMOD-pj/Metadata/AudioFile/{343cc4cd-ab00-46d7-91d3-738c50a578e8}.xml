@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{343cc4cd-ab00-46d7-91d3-738c50a578e8}">
+		<property name="assetPath">
+			<value>gore - flesh guts gore impact blood squirt wet - hard - 49.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.59110416666666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{348def50-1f06-4851-b8fc-6e1e36750707}</destination>
+		</relationship>
+	</object>
+</objects>

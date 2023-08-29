@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{21b23eca-9164-4f1b-b711-8624464dad30}">
+		<property name="assetPath">
+			<value>Music/main-theme_bass-and-perc-layer_loop.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>34.909104166666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{348def50-1f06-4851-b8fc-6e1e36750707}</destination>
+		</relationship>
+	</object>
+</objects>
